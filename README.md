@@ -1,0 +1,2 @@
+# tsconfig
+Shareable TypeScript config
