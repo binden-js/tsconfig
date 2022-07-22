@@ -1,0 +1,23 @@
+declare const _default: {
+  compilerOptions: {
+    target: "esnext";
+    experimentalDecorators: true;
+    useDefineForClassFields: true;
+    module: "esnext";
+    moduleResolution: "node";
+    resolveJsonModule: true;
+    declaration: true;
+    newLine: "lf";
+    esModuleInterop: true;
+    forceConsistentCasingInFileNames: true;
+    strict: true;
+    useUnknownInCatchVariables: true;
+    noUnusedLocals: true;
+    noUnusedParameters: true;
+    exactOptionalPropertyTypes: true;
+    noImplicitReturns: true;
+    noFallthroughCasesInSwitch: true;
+  };
+};
+
+export = _default;
