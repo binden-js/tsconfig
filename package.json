@@ -1,6 +1,6 @@
 {
   "name": "@binden/tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shareable TypeScript config",
   "main": "tsconfig.json",
   "type": "commonjs",

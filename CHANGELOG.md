@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1](https://github.com/binden-js/tsconfig/compare/v1.0.0...v1.0.1) (2022-09-05)
+
+### Dependencies
+
+- bump `typescript` from `4.7.4` to `4.8.2` ([474c7e2](https://github.com/binden-js/tsconfig/commit/474c7e2d741d91fd8faf00168eff3a3553919d47))
+
 ## 1.0.0 (2022-07-22)
 
 ### Features
