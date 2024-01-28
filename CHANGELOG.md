@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.3](https://github.com/binden-js/tsconfig/compare/v1.0.2...v1.0.3) (2024-01-28)
+
+### Dependencies
+
+- bump `typescript` from `v5.1.6` to `v5.3.3` ([4f5757e](https://github.com/binden-js/tsconfig/commit/4f5757e48fdb377448fbb5f9a8c2d91d2829934b))
+
 ## [1.0.2](https://github.com/binden-js/tsconfig/compare/v1.0.1...v1.0.2) (2023-07-12)
 
 ### Dependencies
