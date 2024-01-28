@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/binden-js/tsconfig#readme",
   "peerDependencies": {
-    "typescript": "^5.1.6"
+    "typescript": "^5.3.3"
   },
   "devDependencies": {
     "@binden/commitlint-config": "^1.0.2",
