@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.0.0](https://github.com/binden-js/tsconfig/compare/v1.0.3...v2.0.0) (2024-01-28)
+
+### ⚠ BREAKING CHANGES
+
+- drop Node.js `<20` support
+
+### Performance Improvements
+
+- drop Node.js `<20` support ([4efcba8](https://github.com/binden-js/tsconfig/commit/4efcba8b11eba02665a4ab9cb0cd0bc859ca1e4b))
+
 ## [1.0.3](https://github.com/binden-js/tsconfig/compare/v1.0.2...v1.0.3) (2024-01-28)
 
 ### Dependencies
