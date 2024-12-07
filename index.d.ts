@@ -17,6 +17,7 @@ declare const _default: {
     exactOptionalPropertyTypes: true;
     noImplicitReturns: true;
     noFallthroughCasesInSwitch: true;
+    verbatimModuleSyntax: true;
   };
 };
 
