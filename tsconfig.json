@@ -17,5 +17,6 @@
     "exactOptionalPropertyTypes": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
-  },
+    "verbatimModuleSyntax": true
+  }
 }
