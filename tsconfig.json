@@ -16,6 +16,6 @@
     "noUnusedParameters": true,
     "exactOptionalPropertyTypes": true,
     "noImplicitReturns": true,
-    "noFallthroughCasesInSwitch": true,
-  },
+    "noFallthroughCasesInSwitch": true
+  }
 }
