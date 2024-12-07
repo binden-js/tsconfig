@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.0.0](https://github.com/binden-js/tsconfig/compare/v2.0.0...v3.0.0) (2024-12-07)
+
+### ⚠ BREAKING CHANGES
+
+- add `verbatimModuleSyntax` option
+- drop `Node.js<22` support
+
+### Performance Improvements
+
+- add `verbatimModuleSyntax` option ([3b352b0](https://github.com/binden-js/tsconfig/commit/3b352b089ea141f4c9c8d1b6dd1826e280733c6f))
+- drop `Node.js<22` support ([d0c00e7](https://github.com/binden-js/tsconfig/commit/d0c00e7c15e23eae38c2af066df5c2b8d2259ba1))
+
 ## [2.0.0](https://github.com/binden-js/tsconfig/compare/v1.0.3...v2.0.0) (2024-01-28)
 
 ### ⚠ BREAKING CHANGES
