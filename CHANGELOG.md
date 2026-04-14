@@ -1,5 +1,20 @@
 # Changelog
 
+## [4.0.0](https://github.com/binden-js/tsconfig/compare/v3.0.0...v4.0.0) (2026-04-14)
+
+### ⚠ BREAKING CHANGES
+
+- drop `Node.js` <24 support
+- bump `typescript` to `v6.0.2`
+
+### Performance Improvements
+
+- drop `Node.js` <24 support ([7ee96aa](https://github.com/binden-js/tsconfig/commit/7ee96aa053ee6f5f276be6bca599e9ce2998388c))
+
+### Dependencies
+
+- bump `typescript` to `v6.0.2` ([a88bbe7](https://github.com/binden-js/tsconfig/commit/a88bbe72294698f9f468e3e7318a26593b7272e2))
+
 ## [3.0.0](https://github.com/binden-js/tsconfig/compare/v2.0.0...v3.0.0) (2024-12-07)
 
 ### ⚠ BREAKING CHANGES
