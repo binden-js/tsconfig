@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.0.1](https://github.com/binden-js/tsconfig/compare/v4.0.0...v4.0.1) (2026-04-14)
+
+### Bug Fixes
+
+- use `nodenext` module resolution ([a21843b](https://github.com/binden-js/tsconfig/commit/a21843b9558b5225714a7d86e3a224efbd29d7f1))
+
 ## [4.0.0](https://github.com/binden-js/tsconfig/compare/v3.0.0...v4.0.0) (2026-04-14)
 
 ### ⚠ BREAKING CHANGES
